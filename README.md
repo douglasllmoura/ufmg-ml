@@ -1,4 +1,4 @@
-# Machine Learning 2020.2
+# Machine Learning 2020.1
 
 Repositório as atividades da disciplina de machine learning (DCC - UFMG)
 
